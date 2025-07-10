@@ -8,7 +8,7 @@ export const Testimonials = () => {
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80',
     stars: 5,
     project: 'Community Center',
-    projectImage: '/public/images/Testimonials-1.jpg'
+    projectImage: '/public/images/testimonials-1.jpg'
   }, {
     quote: "We've used EcoBricks in our last three major projects, and the performance has exceeded our expectations. The energy efficiency gains are substantial.",
     author: 'Michael Chen',
@@ -16,7 +16,7 @@ export const Testimonials = () => {
     image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80',
     stars: 5,
     project: 'Office Building',
-    projectImage: '/public/images/Testimonials-2.jpg'
+    projectImage: '/public/images/testimonials-2.jpg'
   }, {
     quote: 'As a homeowner focused on reducing my environmental footprint, choosing EcoBricks for my extension was an easy decision. The house stays cooler in summer and warmer in winter.',
     author: 'Emily Rodriguez',
@@ -24,7 +24,7 @@ export const Testimonials = () => {
     image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80',
     stars: 4,
     project: 'Residential Extension',
-    projectImage: '/public/images/Testimonials-3.jpg'
+    projectImage: '/public/images/testimonials-3.jpg'
   }, {
     quote: 'The EcoBricks team provided exceptional support throughout our project. Their knowledge and commitment to sustainability made them the perfect partner.',
     author: 'David Wilson',

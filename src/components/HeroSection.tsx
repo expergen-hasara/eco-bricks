@@ -25,7 +25,7 @@ export const HeroSection = () => {
       </div>
       <div className="absolute bottom-0 right-0 w-full md:w-2/5 h-1/3 md:h-full overflow-hidden hidden md:block">
         <div className="w-full h-full bg-amber-200 opacity-20 absolute"></div>
-        <img src="/public/images/First-Image.jpg" 
+        <img src="/public/images/first-image.jpg" 
         alt="Eco-friendly brick wall" 
         className="object-cover object-center w-full h-full" />
       </div>
