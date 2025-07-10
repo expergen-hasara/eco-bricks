@@ -7,7 +7,7 @@ export const Footer = () => {
           <div className="md:col-span-1">
             <div className="text-orange-400 font-bold text-2xl mb-4">
             <img
-            src="/src/images/website-logo.jpg"
+            src="/public/images/website-logo.jpg"
             alt="Eco Bricks Logo"
             className="h-20 w-auto object-contain"
             />

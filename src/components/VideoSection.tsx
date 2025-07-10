@@ -16,8 +16,9 @@ export const VideoSection = () => {
         <div className="mt-16 grid grid-cols-1 lg:grid-cols-2 gap-12">
           <div className="rounded-lg overflow-hidden shadow-lg">
             <div className="relative aspect-video">
-              <video className="w-full h-full object-cover" controls poster="https://images.unsplash.com/photo-1582032424748-d77ee4ca8c93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80">
-                <source src="https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f62cab9ea63ecb27747b89828d6e6dc9ff&profile_id=139&oauth2_token_id=57447761" type="video/mp4" />
+              <video className="w-full h-full object-cover" 
+              controls poster="/public/videos/manufacturing.mp4">
+                <source src="/public/videos/manufacturing.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
               <div className="absolute inset-0 flex items-center justify-center pointer-events-none">

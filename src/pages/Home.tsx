@@ -6,19 +6,19 @@ export const Home = () => {
   const sections = [{
     title: 'About Us',
     description: 'Learn about our story, mission, and commitment to sustainable building materials.',
-    image: '/src/images/about-home.jpg',
+    image: '/public/images/about-home.jpg',
     link: '/about',
     color: 'bg-green-50'
   }, {
     title: 'Our Products',
     description: 'Discover our range of eco-friendly building materials designed for performance and sustainability.',
-    image: '/src/images/our-product1.jpg',
+    image: '/public/images/our-product1.jpg',
     link: '/products',
     color: 'bg-amber-50'
   }, {
     title: 'Videos',
     description: 'Watch how our sustainable bricks are made and used in various construction projects.',
-    image: 'https://images.unsplash.com/photo-1582032424748-d77ee4ca8c93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80',
+    image: '/public/images/our-product3.jpg',
     link: '/videos',
     color: 'bg-green-50'
   }, {

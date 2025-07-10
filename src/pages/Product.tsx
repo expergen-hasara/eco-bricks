@@ -3,25 +3,25 @@ export const Products = () => {
   const products = [{
     name: 'Standard EcoBrick',
     description: 'Our flagship product, perfect for standard construction projects with superior thermal properties.',
-    image: '/src/images/our-product1.jpg',
+    image: '/public/images/our-product1.jpg',
     features: ['90% recycled content', 'Standard dimensions', 'High compressive strength', 'Excellent thermal insulation'],
     details: 'Perfect for both residential and commercial construction, our Standard EcoBrick offers excellent structural integrity with the added benefit of superior thermal properties. Each brick is made from 90% recycled materials and undergoes rigorous quality testing.'
   }, {
     name: 'Insulating EcoBrick',
     description: 'Specially designed for energy-efficient buildings with enhanced insulation properties.',
-    image: '/src/images/our-product2.jpg',
+    image: '/public/images/our-product2.jpg',
     features: ['95% recycled content', 'Lightweight design', 'Superior R-value', 'Noise reduction'],
     details: 'Our Insulating EcoBrick is engineered specifically for projects where thermal efficiency is paramount. With an industry-leading R-value and excellent acoustic properties, these bricks help create comfortable, energy-efficient spaces while reducing heating and cooling costs.'
   }, {
     name: 'Decorative EcoBrick',
     description: 'Beautiful, textured bricks for feature walls and aesthetic applications.',
-    image: '/src/images/our-products.jpg',
+    image: '/public/images/our-products.jpg',
     features: ['Multiple color options', 'Textured finish', 'Weather resistant', 'Low maintenance'],
     details: 'Add visual interest and sustainable beauty to any project with our Decorative EcoBricks. Available in a range of colors and textures, these bricks are perfect for feature walls, facades, and landscaping elements that make a statement while remaining environmentally responsible.'
   }, {
     name: 'Paving EcoBrick',
     description: 'Durable and attractive paving solutions for outdoor spaces.',
-    image: '/src/images/our-product3.jpg',
+    image: '/public/images/our-product3.jpg',
     features: ['Slip-resistant surface', 'Freeze-thaw resistant', 'Permeable options available', 'High durability'],
     details: 'Our Paving EcoBricks provide sustainable solutions for walkways, patios, and driveways. Engineered to withstand heavy foot traffic and various weather conditions, these bricks combine practicality with environmental responsibility. The permeable options allow for better water drainage and reduced runoff.'
   }];
