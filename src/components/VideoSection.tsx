@@ -17,8 +17,8 @@ export const VideoSection = () => {
           <div className="rounded-lg overflow-hidden shadow-lg">
             <div className="relative aspect-video">
               <video className="w-full h-full object-cover" 
-              controls poster="/public/videos/manufacturing.mp4">
-                <source src="/public/videos/manufacturing.mp4" type="video/mp4" />
+              controls poster="/assets/videos/manufacturing.mp4">
+                <source src="/assets/videos/manufacturing.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
               <div className="absolute inset-0 flex items-center justify-center pointer-events-none">

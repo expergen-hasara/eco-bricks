@@ -3,17 +3,17 @@ export const ProductsSection = () => {
   const products = [{
     name: 'Standard EcoBrick',
     description: 'Our flagship product, perfect for standard construction projects with superior thermal properties.',
-    image: '/public/images/our-product1.jpg',
+    image: '/assets/images/our-product1.jpg',
     features: ['90% recycled content', 'Standard dimensions', 'High compressive strength', 'Excellent thermal insulation']
   }, {
     name: 'Insulating EcoBrick',
     description: 'Specially designed for energy-efficient buildings with enhanced insulation properties.',
-    image: '/public/images/our-product2.jpg',
+    image: '/assets/images/our-product2.jpg',
     features: ['95% recycled content', 'Lightweight design', 'Superior R-value', 'Noise reduction']
   }, {
     name: 'Decorative EcoBrick',
     description: 'Beautiful, textured bricks for feature walls and aesthetic applications.',
-    image: '/public/images/our-products.jpg',
+    image: '/assets/images/our-products.jpg',
     features: ['Multiple color options', 'Textured finish', 'Weather resistant', 'Low maintenance']
   }];
   return <section id="products" className="w-full bg-gray-50 py-16 md:py-24">

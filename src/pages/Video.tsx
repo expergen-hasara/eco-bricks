@@ -4,8 +4,8 @@ export const Videos = () => {
   const videos = [{
     title: 'Manufacturing Process',
     description: 'See how we transform recycled materials into durable, high-quality building bricks using our innovative low-energy process.',
-    poster: '/public/videos/manufacturing.mp4',
-    source: '/public/videos/manufacturing.mp4',
+    poster: '/assets/videos/manufacturing.mp4',
+    source: '/assets/videos/manufacturing.mp4',
     category: 'Process'
   }, {
     title: 'Case Study: Green Office Building',

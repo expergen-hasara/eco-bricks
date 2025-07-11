@@ -9,7 +9,7 @@ export const Header = () => {
           <div className="flex items-center">
             <Link to="/" className="text-orange-600 font-bold text-2xl">
             <img
-            src="/public/images/website-logo.jpg"
+            src="/assets/images/website-logo.jpg"
             alt="Eco Bricks Logo"
             className="h-20 w-auto object-contain"
             />

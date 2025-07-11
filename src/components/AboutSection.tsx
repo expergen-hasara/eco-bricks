@@ -53,7 +53,7 @@ export const AboutSection = () => {
         </div>
         <div className="mt-16 flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-8 md:mb-0 md:pr-8">
-            <img src="/src/images/about-home.jpg" 
+            <img src="/assets/images/about-home.jpg" 
             alt="Our eco-friendly factory" 
             className="rounded-lg shadow-lg w-full h-auto" />
           </div>
