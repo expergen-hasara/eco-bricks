@@ -67,11 +67,11 @@ export const ContactSection = () => {
                       Our Location
                     </h4>
                     <p className="text-gray-600">
-                      123 Green Building Way
+                      Molagoda,
                       <br />
-                      Eco Industrial Park
-                      <br />
-                      Sustainableville, SV 12345
+                      Kegalle.
+                      {/* <br />
+                      Sustainableville, SV 12345 */}
                     </p>
                   </div>
                 </div>

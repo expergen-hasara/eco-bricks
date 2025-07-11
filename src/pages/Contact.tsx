@@ -98,11 +98,11 @@ export const Contact = () => {
                       Our Location
                     </h4>
                     <p className="text-gray-600">
-                      123 Green Building Way
+                      Molagoda,
                       <br />
-                      Eco Industrial Park
-                      <br />
-                      Sustainableville, SV 12345
+                      Kegalle.
+                      {/* <br />
+                      Sustainableville, SV 12345 */}
                     </p>
                   </div>
                 </div>
@@ -112,8 +112,8 @@ export const Contact = () => {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-lg font-medium text-gray-800">Phone</h4>
-                    <p className="text-gray-600">(555) 123-4567</p>
-                    <p className="text-gray-600">(555) 987-6543 (Sales)</p>
+                    <p className="text-gray-600">0776201377</p>
+                    {/* <p className="text-gray-600">(555) 987-6543 (Sales)</p> */}
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -177,9 +177,12 @@ export const Contact = () => {
               <div className="h-64 bg-gray-200 rounded-lg overflow-hidden">
                 {/* This would be a map in a real implementation */}
                 <div className="w-full h-full bg-amber-50 flex items-center justify-center">
-                  <p className="text-gray-600 text-center p-4">
+                  {/* <p className="text-gray-600 text-center p-4">
                     Interactive map would be displayed here
-                  </p>
+                  </p> */}
+                  <img src="/assets/images/location.jpg" 
+                  alt="Our eco-friendly factory" 
+                  className="rounded-lg shadow-lg w-full h-auto" />
                 </div>
               </div>
             </div>
@@ -208,7 +211,7 @@ export const Contact = () => {
           <div className="inline-flex items-center justify-center bg-white px-6 py-3 rounded-full shadow-md">
             <PhoneIcon size={20} className="text-orange-600 mr-2" />
             <span className="text-lg font-medium text-gray-800">
-              (555) 123-4567
+            0776201377
             </span>
           </div>
         </div>

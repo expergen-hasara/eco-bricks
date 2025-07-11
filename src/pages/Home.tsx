@@ -24,13 +24,13 @@ export const Home = () => {
   }, {
     title: 'Benefits',
     description: 'Explore the advantages our sustainable building materials offer over traditional options.',
-    image: 'https://images.unsplash.com/photo-1484712401471-05c7215830eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80',
+    image: '/assets/images/home-benefits.jpg',
     link: '/benefits',
     color: 'bg-amber-50'
   }, {
     title: 'Testimonials',
     description: 'Hear from architects, builders, and homeowners who have experienced the benefits of EcoBricks firsthand.',
-    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80',
+    image: '/assets/images/home-testimonials.jpg',
     link: '/testimonials',
     color: 'bg-green-50'
   }, {

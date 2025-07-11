@@ -95,7 +95,7 @@ export const Benefits = () => {
               </div>
             </div>
             <div className="md:w-1/2">
-              <img src="https://images.unsplash.com/photo-1484712401471-05c7215830eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80" alt="Environmental impact visualization" className="w-full h-full object-cover" />
+              <img src="/assets/images/environmental-impact.jpg" alt="Environmental impact visualization" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
